@@ -1,0 +1,7 @@
+{
+  "name": "Primum Clothing",
+  "description": "A high-end, luxury minimalist e-commerce platform featuring an AI-powered stylist integrated with Gemini for personalized fashion advice and trend analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
