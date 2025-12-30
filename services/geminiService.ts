@@ -3,7 +3,7 @@ import { GoogleGenAI } from "@google/genai";
 import { PRODUCTS } from "../constants";
 import { AIStylistMessage, Product } from "../types";
 
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY || '' });
+const ai = new GoogleGenAI({ apiKey: process.AIzaSyDfQkF39QZXIM9qcyvaZE5jSfB3PrGHSpc || '' });
 
 export const getStylingAdvice = async (
   userMessage: string,
